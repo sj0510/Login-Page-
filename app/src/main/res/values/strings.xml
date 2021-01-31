@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneAuthLogin</string>
+    <string name="may_i_ask_your_phone_number">Login with your phone number</string>
+
+</resources>
